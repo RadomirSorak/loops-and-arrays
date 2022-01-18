@@ -1,4 +1,4 @@
-# Opdracht beschrijving
+w# Opdracht beschrijving
 
 Deze opdracht bestaat uit meerdere opdrachten van oplopende moeilijkheidsgraad om zoveel mogelijk met loops te kunnen oefenen. Om de opdracht te maken kun je de opdracht clonen of downloaden naar jouw eigen computer.
 
